@@ -21,7 +21,7 @@ repository               : "davidpelosi21/davidpelosi21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "itsme.png"
   name             : "David Pelosi"
   pronouns         : # example: "she/her"  
   bio              : "I am Working on cosmic ray physics and member of the AMS-02 collaboration"
