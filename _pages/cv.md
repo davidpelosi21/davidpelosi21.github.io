@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download Full CV](/files/CV.pdf)
+
 {% include base_path %}
 - **1/11/2023 – Present**  
   **Ph.D. Student** - University of Perugia, Department of Physics  
