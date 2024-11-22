@@ -1,5 +1,10 @@
 # Welcome to Jekyll!
 #
+
+
+# RUN LOCALLY:  'jekyll serve -l -H localhost'
+
+
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -8,7 +13,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David Pelosi / PhD Candidate"
+title                    : "David Pelosi"
 title_separator          : "-"
 name                     : &name "David Pelosi"
 description              : &description "PhD Candidate in Physics at the University of Perugia, Italy"
@@ -24,7 +29,7 @@ author:
   avatar           : "itsme.png"
   name             : "David Pelosi"
   pronouns         : # example: "she/her"  
-  bio              : "I am Working on cosmic ray physics and member of the AMS-02 collaboration"
+  bio              : "Phd Candidate in Cosmic ray physics and Space Weather"
   location         : "Perugia, Italy"
   employer         : "University of Perugia"
   uri              : # URL
@@ -211,7 +216,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  tutoring:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -245,10 +250,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _tutoring
   - scope:
       path: ""
-      type: teaching
+      type: tutoring
     values:
       layout: single
       author_profile: true
