@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,57 +8,27 @@ redirect_from:
 ---
 
 {% include base_path %}
+- **1/11/2023 – Present**  
+  **Ph.D. Student** - University of Perugia, Department of Physics  
+  **Topic**: Phenomenological study of cosmic radiation in Space.  
+  **Supervisor**: Nicola Tomassetti
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **1/12/2022 – 1/11/2023**  
+  **Postgraduate Research Fellow** - University of Perugia  
+  **Topic**: Implementation of an efficient model for predicting the flux of galactic cosmic rays.  
+  The activity is carried out within the framework of the Comprehensive spAce wEather Studies for the ASPIS prototype Realization (CAESAR) project, supported by the Italian Space Agency (ASI) and the National Institute for Astrophysics (INAF).
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **27/04/2023**  
+  **Master's Degree in Astrophysics and Astroparticle Physics** - University of Perugia  
+  **Title**: *A Numerical Model for the Transport of Cosmic Rays in the Heliosphere*  
+  **Supervisor**: Nicola Tomassetti  
+  **Grade**: *110/110 cum laude*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **11/06/2020**  
+  **Bachelor's Degree in Physics** - University of Perugia  
+  **Title**: *Development of a web application for monitoring cosmic radiation and solar activity*  
+  **Supervisors**: Nicola Tomassetti, Matteo Duranti  
+  **Grade**: *110/110*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+

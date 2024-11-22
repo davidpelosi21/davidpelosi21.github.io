@@ -5,6 +5,11 @@ var addressPoints = [
     15.310608468834516
   ],
   [
+    "Paestum, Italy",
+    40.4216783,
+    15.0148832
+  ],
+  [
     "Berlin, Germany",
     52.510885,
     13.3989367
@@ -15,14 +20,14 @@ var addressPoints = [
     4.4461969
   ],
   [
-    "London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Darmstadt, Germany",
+    49.8851869,
+    8.6736295
   ],
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.272863
+    "Dubrovnik, Croatia",
+    42.6491029,
+    18.0939501
   ],
   [
     "Vienna, Austria",
@@ -30,8 +35,13 @@ var addressPoints = [
     16.3725042
   ],
   [
-    "San Francisco, California",
-    37.7792588,
-    -122.4193286
+    "Perugia, Italy",
+    43.1070321,
+    12.402996209906487
+  ],
+  [
+    "Frascati, Italy",
+    41.8082452,
+    12.6803684
   ]
 ];

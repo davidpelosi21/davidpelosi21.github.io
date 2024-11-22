@@ -8,24 +8,24 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Research"
     url: /talks/    
 
-  - title: "Tutoring"
-    url: /tutoring/    
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "Training"
-    url: /education/
+  # - title: "Training"
+  #   url: /education/
 
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
+  - title: "Education"
     url: /cv/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Outreach"
+    url: /outreach/
