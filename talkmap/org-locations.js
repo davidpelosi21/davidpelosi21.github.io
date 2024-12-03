@@ -15,11 +15,6 @@ var addressPoints = [
     13.3989367
   ],
   [
-    "Frascati, Italy",
-    41.8082452,
-    12.6803684
-  ],
-  [
     "Noordwijk, Netherlands",
     52.2410856,
     4.4461969
@@ -48,5 +43,10 @@ var addressPoints = [
     "Perugia, Italy",
     43.1070321,
     12.402996209906487
+  ],
+  [
+    "Frascati, Italy",
+    41.8082452,
+    12.6803684
   ]
 ];
