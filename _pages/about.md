@@ -21,7 +21,7 @@ shifted to a **numerical approach to develop forecasting models of GCR fluxes** 
 space-borne experiments such as PAMELA and AMS-02, as well as solar observations. 
 Despite the main objectives of AMS-02 focusing on investigating high-energy antimatter excess and potential dark matter signals through precision measurements of cosmic ray fluxes, its data are crucial for calibrating predictive models of GCRs around Earth for **space weather studies**.
 
-Plan for the future
+<!-- Plan for the future
 ======
 It is precisely from this example, which directly concerns my research activity, that I have developed
 the awareness that tackling significant challenges requires avoiding compartmentalized thinking and
@@ -31,4 +31,4 @@ Consequently, I am deeply interested in solar physics, plasma turbulence, and th
 the human body, as **dose assessment is one of the fields of application of my work**.
 I firmly believe that ensuring the safety of individuals is paramount for any human activity to thrive and
 succeed. Consequently, I aspire to become part of the scientific community dedicated to studying radiation
-risks and exposure in the hostile space environment.
+risks and exposure in the hostile space environment. -->
