@@ -10,10 +10,16 @@ redirect_from:
 [Download Full CV](/files/CV.pdf)
 
 {% include base_path %}
-- **1/11/2023 – Present**  
+
+- **1/03/2025 – 31/05/2025**  
   **Ph.D. Student** - University of Perugia, Department of Physics  
   **Topic**: Phenomenological study of cosmic radiation in Space.  
   **Supervisor**: Nicola Tomassetti
+
+
+- **1/11/2023 – Present**  
+  **Visiting Scholar** - University of Oulu, Space Physics and Astronomy Research Unit  
+  **Project**: SCOSTEP Visiting Scholar Program 2025
 
 - **1/12/2022 – 1/11/2023**  
   **Postgraduate Research Fellow** - University of Perugia  
