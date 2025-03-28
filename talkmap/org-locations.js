@@ -35,6 +35,11 @@ var addressPoints = [
     12.4829321
   ],
   [
+    "Oulu, Finland",
+    65.0117869,
+    25.4701983
+  ],
+  [
     "Vienna, Austria",
     48.2083537,
     16.3725042
