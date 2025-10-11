@@ -57,7 +57,7 @@ var addressPoints = [
 
   [
     "Bertinoro, Italy",
-    44.149,
-    12.135
+    44.14,
+    12.13
   ]
 ];
