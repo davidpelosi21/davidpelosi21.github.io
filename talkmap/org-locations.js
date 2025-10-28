@@ -1,8 +1,8 @@
 var addressPoints = [
   [
     "Salerno, Italy",
-    40.419441649999996,
-    15.310608468834516
+    40.4194417,
+    15.3106085
   ],
   [
     "Paestum, Italy",
@@ -10,9 +10,14 @@ var addressPoints = [
     15.0148832
   ],
   [
+    "Ume\u00e5, Sweden",
+    63.8256568,
+    20.2630745
+  ],
+  [
     "Berlin, Germany",
-    52.510885,
-    13.3989367
+    52.5173885,
+    13.3951309
   ],
   [
     "Noordwijk, Netherlands",
@@ -21,13 +26,18 @@ var addressPoints = [
   ],
   [
     "Darmstadt, Germany",
-    49.8851869,
-    8.6736295
+    49.872775,
+    8.651177
   ],
   [
     "Dubrovnik, Croatia",
     42.6491029,
     18.0939501
+  ],
+  [
+    "Bertinoro, Italy",
+    44.148665,
+    12.134235
   ],
   [
     "Rome, Italy",
@@ -40,6 +50,11 @@ var addressPoints = [
     25.4701983
   ],
   [
+    "Geneva, Switzerland",
+    46.2017559,
+    6.1466014
+  ],
+  [
     "Vienna, Austria",
     48.2083537,
     16.3725042
@@ -47,17 +62,11 @@ var addressPoints = [
   [
     "Perugia, Italy",
     43.1070321,
-    12.402996209906487
+    12.4029962
   ],
   [
     "Frascati, Italy",
     41.8082452,
     12.6803684
-  ],
-
-  [
-    "Bertinoro, Italy",
-    44.14,
-    12.13
   ]
 ];
