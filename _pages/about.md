@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+Current positon:
 I am a PhD student in Physics at the Department of Physics and Geology at the University
 of Perugia, Italy. 
-I have recently joined the Alpha Magnetic Spectrometer (AMS-02) collaboration, and
+
+
+<!-- I have recently joined the Alpha Magnetic Spectrometer (AMS-02) collaboration, and
 my doctoral project focuses on the Phenomenological Study of Energetic Charged Radiation in Space.
 
 Research activity
@@ -19,7 +22,7 @@ I utilized a Force-Field approximation to solve the Parker equation that governs
 cosmic rays in the heliosphere. During my master’s thesis and in the initial months of my PhD, I have
 shifted to a **numerical approach to develop forecasting models of GCR fluxes** using high-energy data from
 space-borne experiments such as PAMELA and AMS-02, as well as solar observations. 
-Despite the main objectives of AMS-02 focusing on investigating high-energy antimatter excess and potential dark matter signals through precision measurements of cosmic ray fluxes, its data are crucial for calibrating predictive models of GCRs around Earth for **space weather studies**.
+Despite the main objectives of AMS-02 focusing on investigating high-energy antimatter excess and potential dark matter signals through precision measurements of cosmic ray fluxes, its data are crucial for calibrating predictive models of GCRs around Earth for **space weather studies**. -->
 
 <!-- Plan for the future
 ======
