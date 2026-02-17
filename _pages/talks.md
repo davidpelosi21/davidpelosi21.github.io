@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Conferences and Schools"
 permalink: /talks/
 author_profile: true
 ---
