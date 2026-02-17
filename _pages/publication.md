@@ -6,7 +6,6 @@ author_profile: true
 
 # Refereed Journal Publications
 
-
 **10.** D. Pelosi *et al.*,  
 “A forecasting framework for galactic cosmic ray flux in space weather applications,”  
 *Advances in Space Research* **76** (2025) 5700–5713.  
