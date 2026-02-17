@@ -7,7 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Current positon --  PhD candidate in Astroparticle and Space Physics at the Department of Physics and Geology at the University of Perugia, Italy. 
+## Current positon --
+PhD candidate in Astroparticle and Space Physics at the Department of Physics and Geology at the University of Perugia, Italy. 
+
+## Research Interests
+
+- Solar Modulation of Galactic Cosmic Rays  
+- Space Radiation Studies and Space Weather Applications  
+- Statistics and Data Analysis  
+- Particle Physics  
+- Computational Physics  
 
 
 <!-- I have recently joined the Alpha Magnetic Spectrometer (AMS-02) collaboration, and
