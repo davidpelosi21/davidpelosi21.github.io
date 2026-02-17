@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Current positon:
-I am a PhD student in Physics at the Department of Physics and Geology at the University
-of Perugia, Italy. 
+Current positon --  PhD candidate in Astroparticle and Space Physics at the Department of Physics and Geology at the University of Perugia, Italy. 
 
 
 <!-- I have recently joined the Alpha Magnetic Spectrometer (AMS-02) collaboration, and
