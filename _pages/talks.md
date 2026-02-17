@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
@@ -113,3 +113,11 @@ European Geosciences Union (EGU), 14–19 April 2024, Vienna, Austria
 “A Web Application for Monitoring Cosmic Rays and Solar Activity”  
 **D. Pelosi***, M. Duranti, N. Tomassetti  
 International Cosmic-Ray Conference (ICRC2021), 12–23 July 2021, Berlin, Germany  
+
+{% else %}
+
+# Talks
+
+Conference and workshop presentations will appear here.
+
+{% endif %}
