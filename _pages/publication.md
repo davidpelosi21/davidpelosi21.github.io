@@ -1,23 +1,11 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 # Refereed Journal Publications
 
-The following papers were published in the international peer-reviewed journals:
-
-- **[Physical Review Letters](https://journals.aps.org/prl)**
-- **[Advances in Space Research](https://www.journals.elsevier.com/advances-in-space-research)**
-- **[Il Nuovo Cimento C](https://www.sif.it/riviste/sif/ncc)**
-
-A complete reference list is available on the INSPIRE database [here](https://inspirehep.net/authors/1914561).
-
----
-
-## Publications
 
 **10.** D. Pelosi *et al.*,  
 “A forecasting framework for galactic cosmic ray flux in space weather applications,”  
